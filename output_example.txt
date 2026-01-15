@@ -1,0 +1,5 @@
+----- SCOREBOARD SUMMARY -----
+Total Transactions : 4
+PASS               : 3
+FAIL               : 1
+RESULT : TEST FAILED
